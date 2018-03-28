@@ -1,0 +1,11 @@
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\bin\Debug\HaftaGunler.exe.config
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.vbprojResolveAssemblyReference.cache
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.Form1.resources
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.Resources.resources
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.vbproj.GenerateResource.Cache
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\bin\Debug\HaftaGunler.exe
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\bin\Debug\HaftaGunler.pdb
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\bin\Debug\HaftaGunler.xml
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.exe
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.xml
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunler\HaftaGunler\obj\Debug\HaftaGunler.pdb
