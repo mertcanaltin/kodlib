@@ -1,0 +1,11 @@
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\bin\Debug\2HaneliSayi.exe.config
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\bin\Debug\2HaneliSayi.exe
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\bin\Debug\2HaneliSayi.pdb
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\bin\Debug\2HaneliSayi.xml
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\2HaneliSayi.vbprojResolveAssemblyReference.cache
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\_2HaneliSayi.Form1.resources
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\_2HaneliSayi.Resources.resources
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\2HaneliSayi.vbproj.GenerateResource.Cache
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\2HaneliSayi.exe
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\2HaneliSayi.xml
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\2HaneliSayi\2HaneliSayi\obj\Debug\2HaneliSayi.pdb
