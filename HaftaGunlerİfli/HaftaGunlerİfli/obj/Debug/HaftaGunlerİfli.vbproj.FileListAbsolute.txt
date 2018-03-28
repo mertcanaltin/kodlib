@@ -1,0 +1,11 @@
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\bin\Debug\HaftaGunlerİfli.exe.config
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\bin\Debug\HaftaGunlerİfli.exe
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\bin\Debug\HaftaGunlerİfli.pdb
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\bin\Debug\HaftaGunlerİfli.xml
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.vbprojResolveAssemblyReference.cache
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.Form1.resources
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.Resources.resources
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.vbproj.GenerateResource.Cache
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.exe
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.xml
+C:\Users\Arin\Desktop\Okul\2.DONEM\Görsel Programlama\Evde\2. Hafta\Odev\HaftaGunlerİfli\HaftaGunlerİfli\obj\Debug\HaftaGunlerİfli.pdb
